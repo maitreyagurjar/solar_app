@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ADMIN",
+    "desc": "Can perform all operations in the application without any restriction"
+  },
+  {
+    "name": "LEVEL-1",
+    "desc": "Can perform basic operations in the application"
+  },
+  {
+    "name": "LEVEL-2",
+    "desc": "Can perform advanced operations in the application"
+  },
+  {
+    "name": "USER",
+    "desc": "Can view dashboards and make donations through the application"
+  }
+]

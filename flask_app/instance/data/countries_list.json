@@ -1,0 +1,143 @@
+[
+  {
+    "iso_code": "AU",
+    "name": "Australia",
+    "description": "Australia is a country with excellent solar potential due to its location near the equator and its exposure to sunlight throughout the year. The country has one of the highest rates of solar panel installation per capita in the world, and solar power is becoming an increasingly popular source of electricity for both residential and commercial users. The government has been actively promoting the adoption of solar power through various initiatives, such as the Renewable Energy Target (RET) scheme, the Small-scale Renewable Energy Scheme (SRES), and the Large-scale Renewable Energy Target (LRET).",
+    "population": 26306260,
+    "latitude": -25.274,
+    "longitude": 133.775,
+    "lcoe": 0.075,
+    "solar_potential": 1719.15
+  },
+  {
+    "iso_code": "BR",
+    "name": "Brazil",
+    "description": " Brazil has a large and growing market for solar energy, with increasing demand from both residential and commercial sectors.  As the Brazilian economy continues to grow, so will the demand for clean and renewable energy. The Brazilian government offers various incentives to encourage the adoption of solar power, such as tax exemptions, financing options, and net metering. ",
+    "population": 216676054,
+    "latitude": -14.235,
+    "longitude": -51.925,
+    "lcoe": 0.111,
+    "solar_potential": 1606
+  },
+  {
+    "iso_code": "CN",
+    "name": "China",
+    "description": "China is the world's largest consumer of energy and has a huge demand for clean and renewable energy. The country has vast areas of land with high solar irradiance, particularly in the western regions. The Chinese government has been actively promoting the adoption of solar power through various initiatives, such as the Golden Sun Program, the Top Runner Program, and the distributed generation program. These initiatives aim to increase the share of renewable energy in China's energy mix and reduce the country's dependence on coal-fired power.",
+    "population": 1454462289,
+    "latitude": 35.861,
+    "longitude": 104.195,
+    "lcoe": 0.067,
+    "solar_potential": 1416.2
+  },
+  {
+    "iso_code": "FR",
+    "name": "France",
+    "description": "Compared to other European countries, France has a lower solar potential due to its northern latitude and relatively low levels of solar irradiance. The French government has been actively promoting the adoption of solar power through various initiatives, such as the feed-in tariff program and the tender process for large-scale solar power projects. In January 2016, the President of France, François Hollande, and the Prime Minister of India, Narendra Modi, laid the foundation stone for the headquarters of the International Solar Alliance (ISA) in Gwalpahari, Gurgaon, India. ",
+    "population": 65666846,
+    "latitude": 46.228,
+    "longitude": 2.214,
+    "lcoe": 0.149,
+    "solar_potential": 1237.35
+
+  },
+  {
+    "iso_code": "DE",
+    "name": "Germany",
+    "description": "Germany is known for its high solar potential, despite being located in northern Europe. The country has invested heavily in solar energy over the years, and is currently one of the world's leading producers of solar power. Many of the world's leading solar companies are based in Germany.",
+    "population": 84513580,
+    "latitude": 51.166,
+    "longitude": 10.451,
+    "lcoe": 0.138,
+    "solar_potential": 1080.4
+  },
+  {
+    "iso_code": "IN",
+    "name": "India",
+    "description": "India is a country with a significant solar potential due to its location in the tropical region, with abundant sunlight throughout the year. The government has set a target of achieving 175 GW of renewable energy capacity, including 100 GW of solar power, by 2022. The Indian government has also launched various schemes and policies to promote the adoption of solar power, such as the Jawaharlal Nehru National Solar Mission (JNNSM) and the Pradhan Mantri Kisan Urja Suraksha evam Utthan Mahabhiyan (PM-KUSUM) scheme. ",
+    "population": 1416977769,
+    "latitude": 20.593,
+    "longitude": 78.962,
+    "lcoe": 0.063,
+    "solar_potential": "1576.8"
+  },
+  {
+    "iso_code": "IT",
+    "name": "Italy",
+    "description": "Italy is one of the leading countries in Europe in terms of solar power capacity. The country has a high potential for solar energy due to its favorable location and climate, with most regions receiving high levels of solar irradiation throughout the year. The Italian government has been actively promoting the adoption of solar power through various initiatives, such as incentives for renewable energy production and feed-in tariffs. In addition, there are a number of financing options available to support the adoption of solar power, including subsidies, tax credits, and low-interest loans. ",
+    "population": 60219808,
+    "latitude": 41.871,
+    "longitude": 12.567,
+    "lcoe": 0.109,
+    "solar_potential": 1456.35
+  },
+  {
+    "iso_code": "JP",
+    "name": "Japan",
+    "description": "Japan is a country with a significant solar potential due to its location in the Pacific region, with abundant sunlight throughout the year. The government has set a target of achieving 22-24% of renewable energy in the country's energy mix by 2030, with a particular focus on solar power. The Japanese government has also launched various schemes and policies to promote the adoption of solar power, such as the feed-in-tariff (FIT) scheme and the renewable portfolio standard (RPS) scheme.",
+    "population": 125422675,
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "lcoe": 0.163,
+    "solar_potential": 1259.25
+  },
+  {
+    "iso_code": "MY-WM",
+    "name": "Malaysia",
+    "description": "Malaysia is a country with a good solar potential due to its location near the equator, which provides an abundance of sunlight throughout the year. The government has set a target of achieving 20% of renewable energy in the country's energy mix by 2025. The country has been actively promoting the adoption of solar power through various initiatives, such as the Net Energy Metering (NEM) program, which allows households and businesses to generate their electricity from solar panels and sell any excess power to the grid.",
+    "population": 33496309,
+    "latitude": 4.2105,
+    "longitude": 101.9758,
+    "lcoe": 0.095,
+    "solar_potential": 1365.1
+  },
+  {
+    "iso_code": "KR",
+    "name": "Republic of Korea",
+    "description": "The Republic of Korea, also known as South Korea, is a country with a good solar potential due to its location in the northern hemisphere and its exposure to sunlight throughout the year. The country has set a target of achieving 30% of renewable energy in the country's energy mix by 2040. The government has been actively promoting the adoption of solar power through various initiatives, such as the Renewable Portfolio Standard (RPS) and the Renewable Energy Certificate (REC) system.",
+    "population": 51389326,
+    "latitude": 35.9078,
+    "longitude": 127.7669,
+    "lcoe": 0.125,
+    "solar_potential": 1394.3
+  },
+  {
+    "iso_code": "ZA",
+    "name": "South Africa",
+    "description": "South Africa is a country with excellent solar potential due to its location near the equator and its exposure to sunlight throughout the year. The country has set a target of achieving 18 GW of renewable energy in the country's energy mix by 2030. The government has been actively promoting the adoption of solar power through various initiatives, such as the Renewable Energy Independent Power Producer Procurement (REIPPP) program.",
+    "population": 59308690,
+    "latitude": -30.5595,
+    "longitude": 22.9375,
+    "lcoe": 0.102,
+    "solar_potential": 1825
+  },
+  {
+    "iso_code": "ES",
+    "name": "Spain",
+    "description": "Spain is a country with excellent solar potential due to its location in the southern hemisphere and its exposure to sunlight throughout the year. The country has set a target of achieving 74% of renewable energy in the country's electricity mix by 2030. The government has been actively promoting the adoption of solar power through various initiatives, such as the net-metering system and the Royal Decree 244/2019 which aimed to streamline the administrative processes for new solar projects.",
+    "population": 46804086,
+    "latitude": 40.463,
+    "longitude": -3.749,
+    "lcoe": 0.104,
+    "solar_potential": 1609.65
+  },
+  {
+    "iso_code": "CH",
+    "name": "Switzerland",
+    "description": "Random Description",
+    "population": 8826892,
+    "latitude": 46.818,
+    "longitude": 8.227,
+    "lcoe": 0.188,
+    "solar_potential": 1226.4
+  },
+  {
+    "iso_code": "TH",
+    "name": "Thailand",
+    "description": "Thailand is a country with excellent solar potential due to its location near the equator and its exposure to sunlight throughout the year. The government has been actively promoting the adoption of solar power through various initiatives, such as the Alternative Energy Development Plan (AEDP) and the feed-in-tariff (FIT) scheme. ",
+    "population": 70276962,
+    "latitude": 15.870,
+    "longitude": 100.992,
+    "lcoe": 0.106,
+    "solar_potential": 1481.9
+  }
+]

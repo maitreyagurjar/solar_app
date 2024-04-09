@@ -1,0 +1,40 @@
+version: '3.0'
+networks:
+  app_network:
+    external: false
+    driver: bridge
+
+services:
+
+  ### API Container
+  solar_app_api:
+    container_name: solar_app_api
+    build:
+      context: ../
+      dockerfile: docker/flask_app/Dockerfile
+    volumes:
+      - type: bind
+        source: ../flask_app
+        target: /app
+    links:
+      - solar_app_db
+    ports:
+      - "9005:9005"
+    networks:
+      - app_network
+    depends_on:
+      - solar_app_db
+    restart: on-failure
+    command: [ "gunicorn", "wsgi:app", "--bind", ":9005", "--config",
+               "gunicorn_config.py" ]
+
+  solar_app_view:
+    container_name: solar_app_view
+    build:
+      context: ../
+      dockerfile: docker/vue_app/Dockerfile
+    networks:
+      - app_network
+    ports:
+      - "8080:8080"
+    restart: on-failure

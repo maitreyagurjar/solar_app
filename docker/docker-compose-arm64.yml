@@ -1,0 +1,20 @@
+services:
+  ### MySQL Container
+  solar_app_db:
+    container_name: solar_app_db
+    build:
+      context: db_arm64
+    ports:
+      - "3308:3306"
+      - "33060:33060"
+    environment:
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_PORT=${MYSQL_PORT}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_REMOTE_HOST=${MYSQL_REMOTE_HOST}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+    networks:
+      - app_network
+    volumes:
+      - ./docker/db_x86:/docker-entrypoint-initdb.d/:ro

@@ -1,0 +1,82 @@
+
+#bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#lock-icon {
+    margin-top: 10vh;
+    width: 30vh;
+    height: 15vh;
+    justify-self: center;
+    background-image: url(/vue_app/src/assets/login-.gif);
+    background-size: contain;
+    background-position: center;
+}
+
+.banner {
+    color:rgb(253, 253, 253);
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 28px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15vh;
+}
+.banner2 {
+    color:rgb(255, 238, 238);
+    font-family: 'Bad Script', cursive;
+    font-size: 28px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+  .container1 {
+    display: flex;
+    width: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+#v-card {
+    display: flex;
+    flex-direction: row;
+    top: -5%;
+    height: 75vh;
+    width: 200vh;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+#v-btn {
+    top: 5vh;
+}
+.card-text {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+
+.card-img {
+    width: auto;
+    height: auto;
+    background-image: url("/vue_app/src/assets/background-img.png");
+}
+
+#title {
+    font-size: 2.5vh;
+    color: rgb(24, 24, 69);
+    font-family: 'Inter';
+}
+

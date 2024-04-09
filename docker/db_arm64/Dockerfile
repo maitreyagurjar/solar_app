@@ -1,0 +1,23 @@
+############
+### run ###
+############
+
+# base image
+FROM arm64v8/mysql
+
+LABEL maintainer = "jadikesavan1@sheffield.ac.uk"
+
+RUN chown -R mysql:root /var/lib/mysql/
+COPY my.cnf /etc/
+
+ARG MYSQL_DATABASE
+ARG MYSQL_ROOT_PASSWORD
+ARG MYSQL_PORT
+ARG MYSQL_PASSWORD
+ARG MYSQL_REMOTE_HOST
+
+ENV MYSQL_DATABASE=${MYSQL_DATABASE}
+ENV MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+ENV MYSQL_PORT=${MYSQL_PORT}
+ENV MYSQL_PASSWORD=${MYSQL_PASSWORD}
+ENV MYSQL_REMOTE_HOST=${MYSQL_REMOTE_HOST}

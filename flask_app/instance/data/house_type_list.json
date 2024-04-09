@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Flat",
+    "no_of_people": 1,
+    "no_of_rooms": 4,
+    "floor_area": 42,
+    "electricity_usage": 2008,
+    "gas_usage": 9878,
+    "electricity_emissions": 864,
+    "gas_emissions": 1877
+  },
+  {
+    "name": "Flat",
+    "no_of_people": 2,
+    "no_of_rooms": 6,
+    "floor_area": 61,
+    "electricity_usage": 2487,
+    "gas_usage": 14155,
+    "electricity_emissions": 1069,
+    "gas_emissions": 2689
+  },
+  {
+    "name": "Flat",
+    "no_of_people": 3,
+    "no_of_rooms": 7,
+    "floor_area": 89,
+    "electricity_usage": 3432,
+    "gas_usage": 20453,
+    "electricity_emissions": 1476,
+    "gas_emissions": 3886
+  },
+  {
+    "name": "Mid Terraced House",
+    "no_of_people": 2,
+    "no_of_rooms": 6,
+    "floor_area": 31.5,
+    "electricity_usage": 2530,
+    "gas_usage": 14092,
+    "electricity_emissions": 1088,
+    "gas_emissions": 2678
+  },
+  {
+    "name": "Mid Terraced House",
+    "no_of_people": 3,
+    "no_of_rooms": 7,
+    "floor_area": 39.5,
+    "electricity_usage": 3044,
+    "gas_usage": 17562,
+    "electricity_emissions": 1309,
+    "gas_emissions": 2678
+  },
+  {
+    "name": "End Terraced House",
+    "no_of_people": 2,
+    "no_of_rooms": 6,
+    "floor_area": 39.5,
+    "electricity_usage": 2540,
+    "gas_usage": 18142,
+    "electricity_emissions": 1092,
+    "gas_emissions": 3447
+  },
+  {
+    "name": "End Terraced House",
+    "no_of_people": 3,
+    "no_of_rooms": 7,
+    "floor_area": 39.5,
+    "electricity_usage": 3056,
+    "gas_usage": 22640,
+    "electricity_emissions": 1314,
+    "gas_emissions": 4302
+  },
+  {
+    "name": "Semi Detached Bungalow",
+    "no_of_people": 2,
+    "no_of_rooms": 7,
+    "floor_area": 63.5,
+    "electricity_usage": 2570,
+    "gas_usage": 19240,
+    "electricity_emissions": 1105,
+    "gas_emissions": 3656
+  },
+  {
+    "name": "Semi Detached Bungalow",
+    "no_of_people": 3,
+    "no_of_rooms": 8,
+    "floor_area": 74,
+    "electricity_usage": 2903,
+    "gas_usage": 22350,
+    "electricity_emissions": 1248,
+    "gas_emissions": 4247
+  },
+  {
+    "name": "Detached Bungalow",
+    "no_of_people": 2,
+    "no_of_rooms": 7,
+    "floor_area": 67,
+    "electricity_usage": 2678,
+    "gas_usage": 21987,
+    "electricity_emissions": 1152,
+    "gas_emissions": 4178
+  },
+  {
+    "name": "Detached Bungalow",
+    "no_of_people": 3,
+    "no_of_rooms": 8,
+    "floor_area": 78,
+    "electricity_usage": 3042,
+    "gas_usage": 25526,
+    "electricity_emissions": 1308,
+    "gas_emissions": 4850
+  },
+  {
+    "name": "Detached Bungalow",
+    "no_of_people": 4,
+    "no_of_rooms": 10,
+    "floor_area": 90,
+    "electricity_usage": 3486,
+    "gas_usage": 29386,
+    "electricity_emissions": 1499,
+    "gas_emissions": 5583
+  },
+  {
+    "name": "Semi Detached House",
+    "no_of_people": 2,
+    "no_of_rooms": 8,
+    "floor_area": 38.5,
+    "electricity_usage": 2981,
+    "gas_usage": 22080,
+    "electricity_emissions": 1282,
+    "gas_emissions": 4195
+  },
+  {
+    "name": "Semi Detached House",
+    "no_of_people": 3,
+    "no_of_rooms": 9,
+    "floor_area": 44.5,
+    "electricity_usage": 3417,
+    "gas_usage": 25453,
+    "electricity_emissions": 1469,
+    "gas_emissions": 4836
+  },
+  {
+    "name": "Semi Detached House",
+    "no_of_people": 4,
+    "no_of_rooms": 10,
+    "floor_area": 51,
+    "electricity_usage": 3941,
+    "gas_usage": 29106,
+    "electricity_emissions": 1695,
+    "gas_emissions": 5530
+  },
+  {
+    "name": "Detached House",
+    "no_of_people": 2,
+    "no_of_rooms": 8,
+    "floor_area": 45,
+    "electricity_usage": 3453,
+    "gas_usage": 28689,
+    "electricity_emissions": 1485,
+    "gas_emissions": 5451
+  },
+  {
+    "name": "Detached House",
+    "no_of_people": 3,
+    "no_of_rooms": 9,
+    "floor_area": 52,
+    "electricity_usage": 4024,
+    "gas_usage": 33082,
+    "electricity_emissions": 1730,
+    "gas_emissions": 6286
+  },
+  {
+    "name": "Detached House",
+    "no_of_people": 4,
+    "no_of_rooms": 10,
+    "floor_area": 60,
+    "electricity_usage": 4749,
+    "gas_usage": 38101,
+    "electricity_emissions": 2042,
+    "gas_emissions": 7239
+  }
+]
